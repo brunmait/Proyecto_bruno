@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PROYECTO BRUNO</string>
+
+    <string name="txt_name">Nombres</string>
+    <string name="txt_lastname">Apellidos</string>
+    <string name="txt_phone">Teléfono</string> <!-- Cambio de "Telefono" a "Teléfono" -->
+    <string name="txt_carnet">Carnet</string> <!-- Cambio de "txtCi" a "txt_carnet" -->
+
+    <string name="txt_title">Lista de Usuarios</string>
+    <string name="mnu_add">Añadir</string> <!-- Cambio de "anadir" a "Añadir" -->
+    <string name="mnu_edit">Editar</string>
+    <string name="mnu_del">Eliminar</string> <!-- Cambio de "Delete" a "Eliminar" -->
+
+    <string name="app_names">Sistema de Ventas</string>
+
+    <string name="txt_codigo_venta">Código de Venta</string>
+    <string name="txt_descripcion">Descripción</string>
+    <string name="txt_precio">Precio</string>
+    <string name="txt_cantidad">Cantidad</string>
+    <string name="txt_lista_ventas">Lista de Ventas</string>
+
+    <string name="app_namess">MyApp</string>
+    <string name="txt_fecha">Fecha</string>
+    <string-array name="search_criteria">
+        <item>Nombre</item> <!-- Cambio de "First Name" a "Nombre" -->
+        <item>Apellido</item> <!-- Cambio de "Last Name" a "Apellido" -->
+        <item>Teléfono</item> <!-- Cambio de "Phone" a "Teléfono" -->
+    </string-array>
+</resources>

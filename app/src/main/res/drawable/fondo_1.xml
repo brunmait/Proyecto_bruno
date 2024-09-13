@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#17202a"/> <!-- Fondo sólido -->
+    <corners android:radius="1dp"/> <!-- Radio de las esquinas -->
+    <stroke
+        android:width="2dp"
+        android:color="#17202a"/> <!-- Borde blanco -->
+    <gradient
+        android:angle="45"
+        android:startColor="#a9cce3"
+        android:endColor="#a9cce3"/>
+</shape>

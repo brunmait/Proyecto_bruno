@@ -1,0 +1,14 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#4CCD99"/> <!-- Color de acento más oscuro al presionar -->
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#007F73"/> <!-- Color de acento -->
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</selector>
